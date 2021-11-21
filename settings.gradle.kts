@@ -7,4 +7,5 @@ dependencyResolutionManagement {
   }
 }
 rootProject.name = "Binge Anime"
-include ':app'
+
+include(":app")
